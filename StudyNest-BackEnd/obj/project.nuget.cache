@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dA4kVT5yXs5UMLUg8lCHQ3+qNolNj8EElgq9u9u3Xdb3EMTQCULWVj0W52f/G9hDMcArazRWPdCpJ5bJWndTZQ==",
+  "success": true,
+  "projectFilePath": "/Users/brianzhang/Documents/GitHub/StudyNest-BackEnd/StudyNest-BackEnd/StudyNest-BackEnd.csproj",
+  "expectedPackageFiles": [
+    "/Users/brianzhang/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/brianzhang/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/brianzhang/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/brianzhang/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/brianzhang/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/brianzhang/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/brianzhang/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
